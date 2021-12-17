@@ -9,7 +9,7 @@
 
 We had to save the model when the accuracy drop was at  - 2%, 4% and 10% respectively.
 
-For evaluation, in the notebook, run untill cell 6 whicj calls `data_loader` and prints accuracy for clean data and continue till you finish the model's initialisation. Evaluate the Model section directly and run the code from that point
+For evaluation, in the notebook, run untill cell 6 which calls `data_loader` and prints accuracy for clean data and continue till you finish the model's initialisation. Evaluate the Model section directly and run the code from that point
 
 The attack success rate when the accuracy drops at least 30%:  6.954187234779596
 
