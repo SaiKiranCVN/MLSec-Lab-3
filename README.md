@@ -17,4 +17,4 @@ From the graph below, we see that the pruning did not work because the attack su
 
 Dataset: [here](https://drive.google.com/drive/folders/1NynKDQIAYi0r3tzbxLnmltj08gLp7qiz?usp=sharing)
 
-![graph]()
+![graph](./graph_.jpg)
